@@ -7,7 +7,7 @@ Universal Render Pipeline (URP)
 
 1. Target Practice
 
-![](https://github.com/CodeSmore/VR-Minis/blob/master/Gifs/Target_Practice_(v4).gif)
+![](https://github.com/CodeSmore/VR-Minis/blob/main/Gifs/TargetPracticeV4.gif)
 
 Features: Optimization for detailed envrionments, tweening to make things pop, simple interactions, and is more fun than it should be :D
 
