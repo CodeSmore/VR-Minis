@@ -7,7 +7,7 @@ Universal Render Pipeline (URP)
 
 1. Target Practice
 
-[Video here]
+![](Gifs/Target Practice (v4).gif)
 
 Features: Optimization for detailed envrionments, tweening to make things pop, simple interactions, and is more fun than it should be :D
 
