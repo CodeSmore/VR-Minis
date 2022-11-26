@@ -17,6 +17,6 @@ Features: Optimization for detailed envrionments, tweening to make things pop, s
 
 ## BlackJack
 
-[Video here soon]
+![](https://github.com/CodeSmore/VR-Minis/blob/main/Gifs/BlackJackDemo.gif)
 
 Features: Async functionality for sequenced events, animations through lerping, standard blackjack gameplay including doubling down
