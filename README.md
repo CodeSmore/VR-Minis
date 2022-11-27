@@ -1,9 +1,11 @@
 # CodeSmore VR Minis
 Showing off some of my personal VR work
 
-Engine: Unity 2021.3.13f1
-Universal Render Pipeline (URP)
+Engine: Unity 2021.3.13f1  
+Universal Render Pipeline (URP)  
 Main Packages: Oculus, XR Interaction Toolkit (XRIT)
+
+**Give it a few seconds to load Gifs :D**
 
 
 [Target Practice](#target-practice) | [BlackJack](#blackjack)
@@ -13,10 +15,10 @@ Main Packages: Oculus, XR Interaction Toolkit (XRIT)
 
 ![](https://github.com/CodeSmore/VR-Minis/blob/main/Gifs/TargetPracticeV4.gif)
 
-Features: Optimization for detailed envrionments, tweening to make things pop, simple interactions with triggers, and is more fun than it should be :D
+Features: Optimization for detailed envrionments, tweening to make things pop, simple interactions with triggers, and is more fun than it has any right to be.
 
 ## BlackJack
 
 ![](https://github.com/CodeSmore/VR-Minis/blob/main/Gifs/BlackJackDemo.gif)
 
-Features: Async functionality for sequenced events, animations through lerping, standard blackjack gameplay including doubling down
+Features: Async functionality for sequenced events, animations through lerping, standard blackjack gameplay including doubling down.
